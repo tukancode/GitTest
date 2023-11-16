@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gittest", "gittest.csproj", "{13151688-5776-48CC-9D42-837F6AC47EA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13151688-5776-48CC-9D42-837F6AC47EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13151688-5776-48CC-9D42-837F6AC47EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13151688-5776-48CC-9D42-837F6AC47EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13151688-5776-48CC-9D42-837F6AC47EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60923804-C254-4CA3-B254-86ADC8DF0A5B}
+	EndGlobalSection
+EndGlobal
